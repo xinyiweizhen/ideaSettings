@@ -1,0 +1,2 @@
+# ideaSettings
+idea settings repository
